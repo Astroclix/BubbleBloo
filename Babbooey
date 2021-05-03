@@ -1,6 +1,6 @@
 /*
- * @name 
- * @author Astroclix
+ * @name BubbleBloo
+ * @author Rice Hat
  * @version v1
  * @description Thank you for choosing my theme!
  * @source https://github.com/NFLD99/Better-Discord
@@ -38,9 +38,9 @@
 /* Use Chat Bubbles By Shiz */
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
 :root {
-  --Main-Colour: rgba(232,94,94,1);
-  --Background-Colour: rgba(65, 63, 65,1);
-  --Secondary-Background-Colour: rgba(65, 63, 65,.3);
+  --Main-Colour: rgba(118,140,138,1);
+  --Background-Colour: rgba(255,255,255,1);
+  --Secondary-Background-Colour: rgba(248,120,93 ,.3);
   --Secondary-Main-Colour: rgba(101,103,250,.5);
   --Text-Shadow-Colour: rgba(65, 63, 65,.65);
   --Scroller-Colour: rgba(232,94,94,0);
@@ -49,11 +49,11 @@
   --Chat-Input-Colour: var(--Main-Colour) ;
   --Unread-Message-1: var(--Main-Colour) ;
   --Unread-Message-2: var(--Background-Colour) ;
-  --Chat-Background: url(https://images5.alphacoders.com/101/1013796.jpg);
-  --Settings-Background: url(https://images5.alphacoders.com/101/1013796.jpg);
-  --Callout-Background: url(https://images5.alphacoders.com/101/1013796.jpg);
+  --Chat-Background: url(https://raw.githubusercontent.com/Astroclix/BubbleBloo/main/2297010789_preview_b41541fd0875ee0d8e1c585dd6606f1d.jpg?token=AQ373OJTYPNOQI7GPV4WFRTASCACA);
+  --Settings-Background: url(https://raw.githubusercontent.com/Astroclix/BubbleBloo/main/2297010789_preview_b41541fd0875ee0d8e1c585dd6606f1d.jpg?token=AQ373OJTYPNOQI7GPV4WFRTASCACA);
+  --Callout-Background: url(https://raw.githubusercontent.com/Astroclix/BubbleBloo/main/2297010789_preview_b41541fd0875ee0d8e1c585dd6606f1d.jpg?token=AQ373OJTYPNOQI7GPV4WFRTASCACA);
   --Title-Background: var(--Background-Colour);
-  --Theme-Variant: " Miles - Into The Spider Verse";
+  --Theme-Variant: "BubbleBloo";
   --Chat-Font-Used: "Whitney";
   --Chat-Font-Size: 15px;
   --Unread-Message-Speed: 1.5s;
